@@ -13,7 +13,7 @@
 
 ### 💼 Work Experience
 
-**Risk-Analyst at [Alpha Bank](https://alfabank.ru/)**, Aug 2024 - Present
+**Risk-Analyst & Data Scientist at [Alpha Bank](https://alfabank.ru/)**, Aug 2024 - Present
 
 **Teaching Assistant for "Introduction to Programming in Python"**
 Higher School of Economics, Sep 2023 - Present
