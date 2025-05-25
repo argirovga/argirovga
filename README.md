@@ -15,7 +15,7 @@
 
 **Risk-Analyst & Data Scientist at [Alpha Bank](https://alfabank.ru/)**, Aug 2024 - Present
 
-**Teaching Assistant for "Introduction to Programming in Python"**
+**Teaching Assistant for "Introduction to Programming in Python/C++"**
 Higher School of Economics, Sep 2023 - Present
 
 - Assisted students with programming concepts and problem-solving.
@@ -24,10 +24,10 @@ Higher School of Economics, Sep 2023 - Present
 ### 🛠️ Technical Skills
 
 - **Languages:** Python, C++, SQL
-- **Technologies/Frameworks:** Pandas, Numpy, Scikit-learn, PyGad, OpenCV, Matplotlib, Plotly, PostgreSQL, Django, Git
+- **Technologies/Frameworks:** Django, PyTorch, Scikit-learn, PyGad, OpenCV,
 
 ### 🌟 Additional Experience
 
-- **Team Lead,** Spring 2023 - Present
+- **Team Lead, co-founder** Spring 2023 - Present
   - Successfully organized the development of multiple websites for major engineering companies.
   - Optimized workflow, ensuring efficient team collaboration on commercial projects.
